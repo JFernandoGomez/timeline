@@ -1,5 +1,10 @@
 # Project Description
 
+## To run this project:
+
+Do `npm install`
+then `npm run dev`
+
 ### High level objective:
 Design and implement a component for visualizing items on a timeline.
 
